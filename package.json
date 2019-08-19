@@ -1,0 +1,22 @@
+{
+  "name": "nxjs",
+  "version": "0.1.0",
+  "description": "NX is a Node.js framework for building modern Web Services with set of best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimzhan/nxjs.git"
+  },
+  "author": "Jim Zhan <jim.zhan@me.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jimzhan/nxjs/issues"
+  },
+  "homepage": "https://github.com/jimzhan/nxjs#readme",
+  "devDependencies": {
+    "lerna": "^2.11.0"
+  }
+}
